@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/zwbrant/first-crack-at-pag
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![salmon](<iframe width="560" height="315" src="https://www.youtube.com/embed/1oQFix-SRJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+![salmon](https://www.youtube.com/embed/1oQFix-SRJ4)
 
 ### Markdown
 
